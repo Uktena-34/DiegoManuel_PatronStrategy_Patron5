@@ -1,0 +1,5 @@
+﻿Este metodos nos permite aislar codigo, los datos internos y las dependencias de varios algoritmos, del resto del codigo
+Los diversos clientes obtienen una interfaz	simple ara ejecutar y cambiarlos durante su ejecucion.
+
+
+
